@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\Logical ATM Homework\Logical ATM Homework\bin\Debug\Logical ATM Homework.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Logical ATM Homework\Logical ATM Homework\bin\Debug\Logical ATM Homework.exe
+c:\users\dell\documents\visual studio 2015\Projects\Logical ATM Homework\Logical ATM Homework\bin\Debug\Logical ATM Homework.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Logical ATM Homework\Logical ATM Homework\obj\Debug\Logical ATM Homework.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Logical ATM Homework\Logical ATM Homework\obj\Debug\Logical ATM Homework.exe
+c:\users\dell\documents\visual studio 2015\Projects\Logical ATM Homework\Logical ATM Homework\obj\Debug\Logical ATM Homework.pdb
